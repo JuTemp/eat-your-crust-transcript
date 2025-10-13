@@ -3,7 +3,7 @@ These are transcripts of the [Eat Your Crust](https://eatyourcrust.com) podcast,
 Currently updated to episode 289.
 
 Explain the file name:
-`200-13035007-celebrating-episode-200-with-spicy-questions.txt`
+`200-13035007-celebrating-episode-200-with-spicy-questions.lrc`
 
 - `200`: The episode number
 - `13035007`: The podcast ID
